@@ -1,16 +1,26 @@
-## Hi there 👋
+# Olá 👋
 
-<!--
-**PedroPsousilva/PedroPsousilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo João Silva  
+💻 Desenvolvedor Front-end  
+📍 Brasil
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML
+- CSS
+- JavaScript
+- React
+- Node.js
+
+## 📊 Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight)
+
+## 🌎 Redes sociais
+
+[LinkedIn](https://linkedin.com/in/seulink)
+[Portfólio](https://seusite.com)
+
+## ✨ Sobre mim
+
+Sou apaixonado por tecnologia e desenvolvimento web.
