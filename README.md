@@ -1,26 +1,64 @@
-# Olá 👋
+<h1 align="center">Olá 👋, eu sou Pedro Paulo D. Sousa Silva</h1>
 
-Me chamo João Silva  
-💻 Desenvolvedor Front-end  
-📍 Brasil
+<p align="center">
+  💻 Desenvolvedor Júnior <br>
+  🎓 Técnico em Desenvolvimento de Sistemas <br>
+  🚀 Apaixonado por tecnologia e programação
+</p>
 
-## 🚀 Tecnologias
+---
 
-- HTML
-- CSS
+## 👨‍💻 Sobre mim
+
+Me chamo **Pedro Paulo D. Sousa Silva**, tenho **18 anos** e sou um **Desenvolvedor Júnior** com formação técnica em **Desenvolvimento de Sistemas**.
+
+Tenho conhecimento em desenvolvimento web, banco de dados e versionamento de código, buscando sempre aprender novas tecnologias e evoluir como desenvolvedor.
+
+---
+
+## 🚀 Tecnologias e Ferramentas
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,js,react,nodejs,python,mysql,html,css,cpp" />
+
+</div>
+
+---
+
+## 📚 Conhecimentos
+
+- Git & GitHub
 - JavaScript
 - React
 - Node.js
+- Python
+- MySQL
+- HTML5
+- CSS3
+- C++
 
-## 📊 Estatísticas
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight)
+## 📈 GitHub Stats
 
-## 🌎 Redes sociais
+<div align="center">
 
-[LinkedIn](https://linkedin.com/in/seulink)
-[Portfólio](https://seusite.com)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight"/>
 
-## ✨ Sobre mim
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight"/>
 
-Sou apaixonado por tecnologia e desenvolvimento web.
+</div>
+
+---
+
+## 🌎 Contato
+
+📧 SeuEmail@email.com  
+💼 LinkedIn: https://linkedin.com/in/seulink
+
+---
+
+## ✨ Objetivo
+
+Busco oportunidades para crescer profissionalmente como desenvolvedor, adquirir experiência prática e contribuir em projetos inovadores.
