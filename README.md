@@ -55,6 +55,7 @@ Tenho conhecimento em desenvolvimento web, banco de dados e versionamento de có
 ## 🌎 Contato
 
 📧 pedropsousi@gmail.com 
+
 📱 (16) 99423-1823
 
 
