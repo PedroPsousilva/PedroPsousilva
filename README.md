@@ -54,8 +54,8 @@ Tenho conhecimento em desenvolvimento web, banco de dados e versionamento de có
 
 ## 🌎 Contato
 
-📧 SeuEmail@email.com  
-💼 LinkedIn: https://linkedin.com/in/seulink
+📧 pedropsousi@gmail.com 
+
 
 ---
 
